@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # **Kisaan Mitra  🌾**  
 **Revolutionizing Agri-Living with Technology**
