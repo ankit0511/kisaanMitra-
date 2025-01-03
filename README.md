@@ -10,14 +10,17 @@
 
 Kisaan Mitra  is a comprehensive **Agricultural Management Web Application** developed as part of a university project. Built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, this application aims to bridge the gap between farmers, sellers, and consumers by providing an intuitive and feature-rich platform.  
 
+
+** Sample Images **
+
+<img src="https://drive.usercontent.google.com/download?id=1HexFba6Kgt-zzNAJDIqV2iCh4KX8Fpc_&export=view&authuser=0" width = "600" >
 **Key Features:**
 - **Interactive ChatBot** for user assistance
 - Comprehensive **Seller & Farmer Profiles**
 - **Product Management**: Add/Delete/Edit Products, Grains
 - **Consumer Features**: Shopping Cart, Product Purchase, PayPal Integration
 - **Address Management**: Add/Edit Personal & Company Addresses
-- **Loan & Credit Card Services** for Farmers
-
+-
 ---
 
 ## **Getting Started**
