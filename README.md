@@ -3,7 +3,8 @@
 # **Kisaan Mitra  🌾**  
 **Revolutionizing Agri-Living with Technology**
 <img src="https://yt3.googleusercontent.com/ytc/AIdro_mVURs1Yt7dHx6sXFvEO386tIsqgNt5N0_GHt4aEfSKNQ=s900-c-k-c0x00ffffff-no-rj" alt="Kisaan Mitra " width="600" height="300">
-
+<img src= "https://drive.google.com/file/d/1kCbBgmDG8_I_2EZtTvmJZb1l8pAnqOhj/view?usp=sharing" width = "600"> 
+<img src = "https://drive.google.com/file/d/1NC8Kkb8F14bU6Lv_2gdbYpUJWKM7d1Bn/view?usp=sharing" width = "600"> 
 ---
 
 ## **Overview**
